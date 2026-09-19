@@ -38,9 +38,11 @@
 
 ---
 
-## GitHub
+## GitHub and more
 
 [github.com/quietdevx](https://github.com/quietdevx)
+Email: marsala.pino1@gmail.com
+Email 2: marsala.pino22@gmail.com
 
 ---
 
