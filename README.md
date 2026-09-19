@@ -11,7 +11,7 @@
 * 🖥️ Making GUI applications with Tkinter
 * 🌐 Learning how APIs work
 * 📚 Always trying to improve
-* OKING FOR WORK EXPERIENCE COME HIRE ME
+* 🏢Looking for work experience!
 
 ---
 
