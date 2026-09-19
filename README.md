@@ -14,11 +14,11 @@
 
 ## About Me
 
-🐍 Learning Python
-💻 Building projects
-🖥️ Working with Tkinter
-🌐 Working with APIs
-🏢 Looking for work experience
+ Learning Python
+ Building projects
+ Working with Tkinter
+ Working with APIs
+ Looking for work experience
 
 ---
 
