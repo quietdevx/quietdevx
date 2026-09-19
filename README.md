@@ -1,21 +1,26 @@
-# Hey, I'm Pino 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=quietdevx&fontSize=70&fontColor=ffffff" />
+
+</div>
+
+## Hey, I'm Pino
 
 > Developer in progress. Building, learning, and showing.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🐍 Learning Python
-* 💻 Building my own projects
-* 🖥️ Making GUI applications with Tkinter
-* 🌐 Learning how APIs work
-* 📚 Always trying to improve
-* 🏢Looking for work experience!
+* 💻 Building projects
+* 🖥️ Working with Tkinter
+* 🌐 Working with APIs
+* 🏢 Looking for work experience
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 * Python
 * Tkinter
@@ -24,18 +29,16 @@
 
 ---
 
-## ❤️ Passions & Interests
+## Passions & Interests
 
 * 💻 Programming
-* 🐍 Python
 * 🚲 Bikes
 * 🎮 Gaming
-* 🧠 Learning new things
-* 🍔 Eating
+* 🍔 Food
 
 ---
 
-## 📈 Learning
+## Currently Learning
 
 * Advanced Python
 * Working with APIs
@@ -44,17 +47,16 @@
 
 ---
 
-## 🌐 Find Me
+## GitHub
 
-[GitHub](https://github.com/quietdevx)
-[Whatsapp](7871817480)
-[snapchat](pinomarsala)
-[email](marsala.pino1@gmail.com)
-[email 2](marsala.pino22@gmail.com)
-
-
+[github.com/quietdevx](https://github.com/quietdevx)
 
 ---
 
-> "Build it. Break it. Learn from it."
+<div align="center">
+
+`Python • Projects • Learning`
+
+</div>
+
 
