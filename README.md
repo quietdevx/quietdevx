@@ -4,7 +4,7 @@
 
 </div>
 
-## Hey, I'm Pino
+## Hello, I'm Pino
 
 > Developer in progress. Building, learning, and showing.
 
