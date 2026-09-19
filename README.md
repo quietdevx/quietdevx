@@ -6,7 +6,7 @@
 
 ## Hello, I'm Pino
 
-> Developer in progress. Building, learning, and showing.
+> Developer in progress.
 
 ---
 
