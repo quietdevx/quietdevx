@@ -31,7 +31,6 @@
 * 🎮 Gaming
 * 🧠 Learning new things
 * 🍔 Eating
-* 
 
 ---
 
