@@ -29,15 +29,6 @@
 
 ---
 
-## Passions & Interests
-
-* 💻 Programming
-* 🚲 Bikes
-* 🎮 Gaming
-* 🍔 Food
-
----
-
 ## Currently Learning
 
 * Advanced Python
