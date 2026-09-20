@@ -24,7 +24,7 @@
 
 ## Skills
 
-Python • Tkinter • APIs • JSON
+Python • Tkinter • APIs 
 
 ---
 
